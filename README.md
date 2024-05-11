@@ -1,2 +1,2 @@
 # lwRestart
- Plugin for Minecraft Server
+ Красивая перезагрузка вашего сервера
