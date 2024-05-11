@@ -1,0 +1,7 @@
+name: lwRestart
+version: '1.0'
+main: lightwolf.lwrestart.LwRestart
+api-version: '1.16'
+authors: [LightWolf | t.me/lightwolf]
+commands:
+  lwrestart: {}
